@@ -1,0 +1,70 @@
+.home {
+
+	header.navbar {
+		height: auto;
+		margin-bottom: 10px;
+		background:white;
+		padding-bottom:15px;
+
+		@media @sm {
+		}
+		.container {
+			padding:20px 0 0;
+			@media @sm {
+				padding:18px;
+			}
+		}
+	}
+
+	a.navbar-brand {
+		position: relative;
+		display: block;
+		width:170px;
+		height: 93px;
+		text-indent: -9999px;
+		margin: 0;
+		z-index: auto;
+
+		svg {display: none;}
+
+		svg.logo-main {
+			display: block;
+			width:100%;
+			height: auto;
+			fill:@black;
+		}
+
+		@media @sm {margin:10px 0 0 12px;}
+	}
+	#blurb {
+		z-index: 1000;
+		margin: 120px 0 0 20px;
+		text-align: left;
+
+		@media @sm {margin-top:25px;}
+
+		h2 {
+			font-family: @eesti;
+			color: @black;
+			font-weight: 100;
+			font-size: 1.3em;
+			max-width:320px;
+			line-height: 21px;
+			letter-spacing:-0.01em;
+
+			@media @sm {
+				font-size: 2.3em;
+				line-height: 42px;
+				max-width: 800px;
+				padding-right:40px;
+			}
+		}
+		a {
+			margin-top: -10px;
+			background: none;
+			padding: 0;
+
+			@media@sm {magin-top:-6px;}
+		}
+	}
+}
