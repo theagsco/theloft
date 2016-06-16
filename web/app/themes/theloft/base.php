@@ -15,6 +15,7 @@ use Roots\Sage\Wrapper;
       </div>
     <![endif]-->
     <?php include_once("analyticstracking.php") ?>
+    <?php include_once("mailchimp-popup.php") ?>
     <?php
       do_action('get_header');
       get_template_part('templates/header');
