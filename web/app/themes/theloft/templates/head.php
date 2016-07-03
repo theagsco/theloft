@@ -3,6 +3,5 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php wp_head(); ?>
-  <script src="//use.typekit.net/vbl2tej.js"></script>
-  <script>try{Typekit.load();}catch(e){}</script>
+  <link href="https://fonts.googleapis.com/css?family=Amiri:400,400i,700|Karla" rel="stylesheet">
 </head>

@@ -1,4 +1,5 @@
-<?php
+<article <?php post_class(); ?>>
+	<?php
 	$the_query = new WP_Query(array(
 		'posts_per_page' => 4
 	));
@@ -11,3 +12,4 @@
 	endwhile;
 	wp_reset_postdata();
 ?>
+</article>

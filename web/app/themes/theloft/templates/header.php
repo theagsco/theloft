@@ -17,9 +17,6 @@
         wp_nav_menu(['theme_location' => 'primary_navigation', 'menu_class' => 'nav']);
       endif;
       ?>
-
-      <span class="nav-close"><img class="svg" src="<?php bloginfo('template_directory'); ?>/assets/images/icons_hamburger.svg"/></span>
-
     </nav>
 
     <?php if (is_front_page()) : ?>
