@@ -43,6 +43,7 @@
     	"wpackagist-plugin/add-from-server": "dev-trunk",
       "wpackagist-plugin/remove-category-url": "dev-trunk",
       "wpackagist-plugin/slimpack": "dev-trunk",
+      "wpackagist-plugin/simple-custom-css": "dev-trunk",
     "roots/soil": "3.6.2"
   },
   "extra": {

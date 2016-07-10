@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "edf875d0c720e96e816cf16c5bca6b5b",
-    "content-hash": "6fb0abd3b0567fd711737332c8f8a084",
+    "hash": "d33869c526163fdefb880aef9a678b79",
+    "content-hash": "4015e0afdcac7c2d3fed8d6c55ba968a",
     "packages": [
         {
             "name": "composer/installers",
@@ -409,6 +409,27 @@
             "time": "2015-09-17 02:46:19"
         },
         {
+            "name": "wpackagist-plugin/simple-custom-css",
+            "version": "dev-trunk",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/simple-custom-css/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/simple-custom-css.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/simple-custom-css/",
+            "time": "2016-01-11 22:26:18"
+        },
+        {
             "name": "wpackagist-plugin/slimpack",
             "version": "dev-trunk",
             "source": {
@@ -436,7 +457,8 @@
     "stability-flags": {
         "wpackagist-plugin/add-from-server": 20,
         "wpackagist-plugin/remove-category-url": 20,
-        "wpackagist-plugin/slimpack": 20
+        "wpackagist-plugin/slimpack": 20,
+        "wpackagist-plugin/simple-custom-css": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
