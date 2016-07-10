@@ -1,0 +1,357 @@
+# Copyright (C) 2015 ThemeRobo
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zoomify 1.0.0\n"
+"POT-Creation-Date: 2015-08-02 11:09+0100\n"
+"PO-Revision-Date: 2015-08-02 11:09+0100\n"
+"Last-Translator: ThemeRobo <contact.themerobo.com>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try another search "
+"term?"
+msgstr ""
+
+#: ../archive.php:18
+#, php-format
+msgid "All posts filed under &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../archive.php:21
+#, php-format
+msgid "All posts tagged &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../archive.php:28
+#, php-format
+msgid "All posts by &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../archive.php:36
+#, php-format
+msgid "Daily archives of &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../archive.php:39
+#, php-format
+msgid "Monthly archives of &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../archive.php:42
+#, php-format
+msgid "Yearly archives of &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../archive.php:45
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:79 ../search.php:33
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:83
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: ../comments.php:11
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:46
+msgid "<span>&larr; Older</span>"
+msgstr ""
+
+#: ../comments.php:47
+msgid "<span>Newer &rarr;</span>"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:62
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:64
+msgid "<h3 id=\"reply-title\">Leave a Reply</h3>"
+msgstr ""
+
+#: ../content-archive.php:18
+msgid "Filter by Tags"
+msgstr ""
+
+#: ../content-archive.php:23
+msgid "The Latest 30 Posts"
+msgstr ""
+
+#: ../content-archive.php:28
+msgid "The Monthly Archive"
+msgstr ""
+
+#: ../content-single.php:18 ../content.php:18
+msgid "comment 0"
+msgstr ""
+
+#: ../content-single.php:18 ../content.php:18
+msgid "comment 1"
+msgstr ""
+
+#: ../content-single.php:18 ../content.php:18
+msgid "comments %"
+msgstr ""
+
+#: ../content-single.php:21 ../content.php:21 ../image.php:24
+#: ../inc/functions/extras.php:238 ../inc/functions/extras.php:253
+msgid "Edit"
+msgstr ""
+
+#: ../content-single.php:28 ../content.php:58
+msgid "Pages:"
+msgstr ""
+
+#: ../content-single.php:32
+msgid "Filed under: "
+msgstr ""
+
+#: ../content-single.php:35
+msgid "Tagged: "
+msgstr ""
+
+#: ../content-single.php:40
+msgid "About the Author"
+msgstr ""
+
+#: ../content-single.php:43
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+#: ../content-single.php:54
+msgid "<span>Next Post  &raquo;</span>"
+msgstr ""
+
+#: ../content-single.php:55
+msgid "<span>&laquo; Previous Post</span>"
+msgstr ""
+
+#: ../footer.php:33
+msgid "Proudly powered by"
+msgstr ""
+
+#: ../footer.php:33
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:33
+msgid "WordPress."
+msgstr ""
+
+#: ../footer.php:38
+msgid "http://www.themerobo.com/"
+msgstr ""
+
+#: ../header.php:29
+msgid ""
+"Type your search terms above and press return to see the search results."
+msgstr ""
+
+#: ../image.php:70
+msgid "Posted in: "
+msgstr ""
+
+#: ../image.php:78
+msgid "<span>&larr; Previous</span>"
+msgstr ""
+
+#: ../image.php:79
+msgid "<span>Next &rarr;</span>"
+msgstr ""
+
+#: ../inc/customizer/controls.php:21
+msgid "Header"
+msgstr ""
+
+#: ../inc/customizer/controls.php:38
+msgid "Main Content"
+msgstr ""
+
+#: ../inc/customizer/controls.php:51
+msgid "Auto Excerpts"
+msgstr ""
+
+#: ../inc/customizer/controls.php:67
+msgid "Excerpt length"
+msgstr ""
+
+#: ../inc/customizer/controls.php:78 ../inc/functions/extras.php:135
+msgid "Read More"
+msgstr ""
+
+#: ../inc/customizer/controls.php:83
+msgid "Read More Button Text"
+msgstr ""
+
+#: ../inc/customizer/controls.php:94
+msgid "Typography"
+msgstr ""
+
+#: ../inc/customizer/controls.php:107
+msgid "Link color"
+msgstr ""
+
+#: ../inc/customizer/controls.php:122
+msgid "Link Hover color"
+msgstr ""
+
+#: ../inc/customizer/controls.php:138
+msgid "Text color"
+msgstr ""
+
+#: ../inc/customizer/controls.php:154
+msgid "Heading color"
+msgstr ""
+
+#: ../inc/customizer/controls.php:169
+msgid "Enable Header?"
+msgstr ""
+
+#: ../inc/customizer/controls.php:186
+msgid "Background color"
+msgstr ""
+
+#: ../inc/customizer/controls.php:201
+msgid "Blog Title"
+msgstr ""
+
+#: ../inc/customizer/controls.php:217
+msgid "Blog Caption"
+msgstr ""
+
+#: ../inc/customizer/controls.php:234
+msgid "Blog Title and Caption Color"
+msgstr ""
+
+#: ../inc/customizer/controls.php:244
+msgid "Layout"
+msgstr ""
+
+#: ../inc/customizer/controls.php:254
+msgid "General layout"
+msgstr ""
+
+#: ../inc/customizer/controls.php:271
+msgid "More"
+msgstr ""
+
+#: ../inc/customizer/controls.php:281
+msgid "Looking for more options?"
+msgstr ""
+
+#: ../inc/customizer/controls/layout.php:17
+msgid "Small Content"
+msgstr ""
+
+#: ../inc/customizer/controls/layout.php:22
+msgid "Big Content"
+msgstr ""
+
+#: ../inc/customizer/controls/more.php:13
+msgid "Enjoying Zoomify?"
+msgstr ""
+
+#: ../inc/customizer/controls/more.php:16
+#, php-format
+msgid ""
+"Why not leave us a review on %sWordPress.org%s?  We'd really appreciate it!"
+msgstr ""
+
+#: ../inc/functions/extras.php:218
+#, php-format
+msgid " %s "
+msgstr ""
+
+#: ../inc/functions/extras.php:224
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: 1: date
+#: ../inc/functions/extras.php:231
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../inc/functions/extras.php:235
+msgid "Reply<span> to this comment</span>"
+msgstr ""
+
+#: ../inc/functions/extras.php:252
+msgid "<span>Pingback:</span>"
+msgstr ""
+
+#: ../inc/functions/extras.php:270
+msgid "<span>&laquo; Older Posts</span>"
+msgstr ""
+
+#: ../inc/functions/extras.php:271
+msgid "<span>Newer Posts &raquo;</span>"
+msgstr ""
+
+#: ../inc/functions/setup.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: ../inc/functions/setup.php:55
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../inc/functions/setup.php:84
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: ../inc/functions/setup.php:86
+msgid "Widgets will appear in the first footer column."
+msgstr ""
+
+#: ../inc/functions/setup.php:94
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: ../inc/functions/setup.php:96
+msgid "Widgets will appear in the second footer column."
+msgstr ""
+
+#: ../inc/functions/setup.php:104
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: ../inc/functions/setup.php:106
+msgid "Widgets will appear in the third footer column."
+msgstr ""
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../search.php:36
+msgid "Sorry, but nothing matched your search criteria. Please try again!"
+msgstr ""

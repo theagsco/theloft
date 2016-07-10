@@ -1,0 +1,35 @@
+# Zoomify Changelog
+
+### 1.0.10 - 2015.08.02
+- **Fixed** - Fixes issues as per Theme Review
+
+### 1.0.9 - 2015.07.15
+- **Fixed** - Fixes issues as per Theme Review
+
+### 1.0.8 - 2015.07.14 
+- **Fixed** - Fixes issues as per Theme Review
+
+### 1.0.7 - 2015.07.14 
+- **Fixed** - Fixes issues as per Theme Review
+
+### 1.0.6 - 2015.07.13 
+- **Fixed** - Fixes issues as per Theme Review
+
+### 1.0.5 - 2015.07.11 
+- **Fixed** - Fixes issues as per Theme Review
+
+### 1.0.4 - 2015.07.02 
+* **Fixed** - Load only one translations file.
+
+### 1.0.3 - 2015.07.02 
+* **Fixed** - Data validation / escaping output.
+
+### 1.0.2 - 2015.07.02 
+* **Fixed** - Data validation / escaping output.
+
+### 1.0.1 - 2015.06.27 
+* **Fixed** - Data validation / escaping output.
+* **Fixed** - Internalization.
+
+### 1.0.0 - 2015.04.05 
+* Initial release
