@@ -44,6 +44,7 @@
       "wpackagist-plugin/remove-category-url": "dev-trunk",
       "wpackagist-plugin/slimpack": "dev-trunk",
       "wpackagist-plugin/simple-custom-css": "dev-trunk",
+      "wpackagist-plugin/google-analytics-for-wordpress": "dev-trunk",
     "roots/soil": "3.6.2"
   },
   "extra": {
